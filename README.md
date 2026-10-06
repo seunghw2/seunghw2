@@ -4,7 +4,6 @@
 
 <p align="center"><sub>APPS</sub></p>
 
-<img src="assets/min/app-love-today-v3.svg" width="100%"/>
 <img src="assets/min/app-powerup-v3.svg" width="100%"/>
 
 <br/>
