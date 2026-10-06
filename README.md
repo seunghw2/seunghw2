@@ -1,7 +1,28 @@
-💻 Projects
-| 프로젝트 | 소개 | 기간 | 역할 | 성과 |
-| --- | --- | --- | --- | --- |
-| [**BeFresh**](https://github.com/seunghw2/BeFresh) | 냉장고 속 식자재 신선도 관리 플랫폼 | 2024.05 ~ 2024.06 (6주) | 팀장, 백엔드 (총 6명) | 삼성 청년 SW 아카데미 프로젝트 우수상 |
-| [**BeFresh - Spring Batch**](https://github.com/seunghw2/BeFresh_SpringBatch) | BeFresh 프로젝트 스프링 배치 학습 및 리팩터링 | 2024.08 ~ Now | 리팩터링 (개인) |  |
-| [**LaughTale**](https://github.com/seunghw2/LaughTale) | 일본 만화를 통해 일본어 어휘를 배우는 학습 플랫폼 | 2024.02 ~ 2024.04 (6주) | 팀장, 인프라 (총 6명) | 삼성 청년 SW 아카데미 프로젝트 우수상 |
-| [**ClassHub**](https://github.com/seunghw2/ClassHub) | IT 강의 통합 비교 플랫폼 | 2024.01 ~ 2024.02 (7주) | 팀장, 백엔드 (총 6명) |  |
+<img src="assets/min/header.svg" width="100%"/>
+
+<br/>
+
+<a href="https://apps.apple.com/app/id6790133231"><img src="assets/min/app-love-today.svg" width="100%"/></a>
+<a href="https://apps.apple.com/app/id6791178128"><img src="assets/min/app-powerup.svg" width="100%"/></a>
+
+<br/>
+
+<div align="center">
+
+<sub>PROJECTS</sub>
+
+<a href="https://github.com/seunghw2/BeFresh"><img src="https://img.shields.io/badge/BeFresh-%EC%9A%B0%EC%88%98%EC%83%81-161B22?style=flat-square&labelColor=0D1117"/></a> <a href="https://github.com/seunghw2/LaughTale"><img src="https://img.shields.io/badge/LaughTale-%EC%9A%B0%EC%88%98%EC%83%81-161B22?style=flat-square&labelColor=0D1117"/></a> <a href="https://github.com/seunghw2/ClassHub"><img src="https://img.shields.io/badge/ClassHub-%ED%8C%80%EC%9E%A5-161B22?style=flat-square&labelColor=0D1117"/></a> <a href="https://github.com/seunghw2/BeFresh_SpringBatch"><img src="https://img.shields.io/badge/Spring%20Batch-%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81-161B22?style=flat-square&labelColor=0D1117"/></a>
+
+<br/>
+
+<sub>STACK</sub>
+
+<img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-161B22?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-161B22?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Native-161B22?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=white"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghw2&layout=compact&hide=jupyter%20notebook,html,css&theme=transparent&hide_border=true&title_color=F0F6FC&text_color=8B949E&langs_count=4" width="90%"/>
+
+<sub>───── &nbsp;less, but better&nbsp; ─────</sub>
+
+</div>
