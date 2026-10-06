@@ -1,20 +1,20 @@
-<img src="assets/min/header.svg" width="100%"/>
+<img src="assets/min/header-v3.svg" width="100%"/>
 
 <br/>
 
 <p align="center"><sub>APPS</sub></p>
 
-<img src="assets/min/app-love-today.svg" width="100%"/>
-<img src="assets/min/app-powerup.svg" width="100%"/>
+<img src="assets/min/app-love-today-v3.svg" width="100%"/>
+<img src="assets/min/app-powerup-v3.svg" width="100%"/>
 
 <br/>
 
-<p align="center"><sub>PROJECTS</sub></p>
+<p align="center"><sub>💻 PROJECTS</sub></p>
 
-<a href="https://github.com/seunghw2/BeFresh"><img src="assets/min/proj-befresh.svg" width="100%"/></a>
-<a href="https://github.com/seunghw2/BeFresh_SpringBatch"><img src="assets/min/proj-befresh-batch.svg" width="100%"/></a>
-<a href="https://github.com/seunghw2/LaughTale"><img src="assets/min/proj-laughtale.svg" width="100%"/></a>
-<a href="https://github.com/seunghw2/ClassHub"><img src="assets/min/proj-classhub.svg" width="100%"/></a>
+<a href="https://github.com/seunghw2/BeFresh"><img src="assets/min/proj-befresh-v3.svg" width="100%"/></a>
+<a href="https://github.com/seunghw2/BeFresh_SpringBatch"><img src="assets/min/proj-befresh-batch-v3.svg" width="100%"/></a>
+<a href="https://github.com/seunghw2/LaughTale"><img src="assets/min/proj-laughtale-v3.svg" width="100%"/></a>
+<a href="https://github.com/seunghw2/ClassHub"><img src="assets/min/proj-classhub-v3.svg" width="100%"/></a>
 
 <br/>
 
