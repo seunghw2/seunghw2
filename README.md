@@ -2,18 +2,23 @@
 
 <br/>
 
-<a href="https://apps.apple.com/app/id6790133231"><img src="assets/min/app-love-today.svg" width="100%"/></a>
-<a href="https://apps.apple.com/app/id6791178128"><img src="assets/min/app-powerup.svg" width="100%"/></a>
+<p align="center"><sub>APPS</sub></p>
+
+<img src="assets/min/app-love-today.svg" width="100%"/>
+<img src="assets/min/app-powerup.svg" width="100%"/>
+
+<br/>
+
+<p align="center"><sub>PROJECTS</sub></p>
+
+<a href="https://github.com/seunghw2/BeFresh"><img src="assets/min/proj-befresh.svg" width="100%"/></a>
+<a href="https://github.com/seunghw2/BeFresh_SpringBatch"><img src="assets/min/proj-befresh-batch.svg" width="100%"/></a>
+<a href="https://github.com/seunghw2/LaughTale"><img src="assets/min/proj-laughtale.svg" width="100%"/></a>
+<a href="https://github.com/seunghw2/ClassHub"><img src="assets/min/proj-classhub.svg" width="100%"/></a>
 
 <br/>
 
 <div align="center">
-
-<sub>PROJECTS</sub>
-
-<a href="https://github.com/seunghw2/BeFresh"><img src="https://img.shields.io/badge/BeFresh-%EC%9A%B0%EC%88%98%EC%83%81-161B22?style=flat-square&labelColor=0D1117"/></a> <a href="https://github.com/seunghw2/LaughTale"><img src="https://img.shields.io/badge/LaughTale-%EC%9A%B0%EC%88%98%EC%83%81-161B22?style=flat-square&labelColor=0D1117"/></a> <a href="https://github.com/seunghw2/ClassHub"><img src="https://img.shields.io/badge/ClassHub-%ED%8C%80%EC%9E%A5-161B22?style=flat-square&labelColor=0D1117"/></a> <a href="https://github.com/seunghw2/BeFresh_SpringBatch"><img src="https://img.shields.io/badge/Spring%20Batch-%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81-161B22?style=flat-square&labelColor=0D1117"/></a>
-
-<br/>
 
 <sub>STACK</sub>
 

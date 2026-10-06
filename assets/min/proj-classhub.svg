@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="196" viewBox="0 0 720 196">
+<defs><style>.t{font-family:-apple-system,BlinkMacSystemFont,&quot;Apple SD Gothic Neo&quot;,&quot;Pretendard&quot;,&quot;Noto Sans KR&quot;,sans-serif} .c{opacity:0;animation:in .9s ease forwards}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.p{animation:p 2.4s ease-in-out infinite} @keyframes p{50%{opacity:.45}}</style></defs>
+<g class="c"><rect x="1" y="1" width="718" height="194" rx="30" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+<rect x="28" y="28" width="76" height="76" rx="20" fill="#FFA657" opacity=".18"/>
+<text x="66" y="80" text-anchor="middle" class="t" font-size="38" font-weight="800" fill="#FFA657">C</text>
+<text x="128" y="62" class="t" font-size="34" font-weight="800" fill="#F0F6FC">ClassHub</text>
+<text x="128" y="98" class="t" font-size="22" fill="#8B949E">IT 강의 통합 비교 플랫폼</text>
+<text x="28" y="150" class="t" font-size="18" font-weight="700" fill="#6E7681">기간</text>
+<text x="76" y="150" class="t" font-size="20" fill="#C9D1D9">2024.01 ~ 02 (7주)</text>
+<text x="380" y="150" class="t" font-size="18" font-weight="700" fill="#6E7681">역할</text>
+<text x="428" y="150" class="t" font-size="20" fill="#C9D1D9">팀장 · 백엔드 (6명)</text>
+</g></svg>
